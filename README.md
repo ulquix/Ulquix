@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Prince Yadav</h1>
-<h3 align="center">JavaScript Developer | Web Engineer | Problem Solver</h3>
+<h3 align="center">Typescript Developer | Web Engineer | Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ulquix&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ulquix&theme=onedark&no-frame=true&row=1&column=6" />
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ulquix)](https://github.com/ryo-ma/github-profile-trophy)
+
   </a>
 </p>
 
