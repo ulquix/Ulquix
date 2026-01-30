@@ -67,8 +67,4 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=ulquix&theme=material-palenight&hide_border=true"
-  />
-</p>
+
