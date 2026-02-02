@@ -22,7 +22,7 @@
 - Strong preference for clean architecture, performance, and DX
 
 🌐 Portfolio: **https://princecodes.tech**  
-📄 Resume: **https://drive.google.com/file/d/1BdZ1VwkigJOI6D7ri_x6UcoAs7AaHRfO/view**
+
 
 ---
 
