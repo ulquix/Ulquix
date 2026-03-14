@@ -45,7 +45,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,node,express,redux,tailwind,sass" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,express,redux,tailwind,sass" />
   <br/>
   <img src="https://skillicons.dev/icons?i=python,flask,django,postgres,mongodb,redis" />
   <br/>
