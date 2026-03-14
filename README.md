@@ -3,7 +3,7 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=ulquix&label=Profile%20Views&color=0e75b6&style=flat"
+    src="https://komarev.com/ghpvc/?username=prncexe&label=Profile%20Views&color=0e75b6&style=flat"
     alt="profile views"
   />
 </p>
@@ -29,7 +29,7 @@
 ### 🌍 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/ulquix" target="_blank">
+  <a href="https://github.com/prncexe" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
   <a href="https://linkedin.com/in/prncexe" target="_blank">
@@ -58,11 +58,11 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=ulquix&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=prncexe&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"
     height="165"
   />
   <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ulquix&layout=compact&theme=material-palenight"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prncexe&layout=compact&theme=material-palenight"
     height="165"
   />
 </p>
